@@ -1,0 +1,13 @@
+{
+  "name": "@hand-on-web/api-rate-limiter",
+  "version": "1.0.0",
+  "description": "Simple API rate limiting middleware for Express with sliding window",
+  "homepage": "https://www.handonweb.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/basic.test.js"
+  },
+  "keywords": ["rate-limiter", "express", "middleware", "api", "security"],
+  "author": "Hand On Web Ltd <outreach@handonweb.com>",
+  "license": "MIT"
+}
